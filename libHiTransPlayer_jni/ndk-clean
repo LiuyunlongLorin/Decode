@@ -1,0 +1,12 @@
+#!/bin/sh
+
+function cleanffmpeg()
+{
+   cd ./jni/src/libffmpeg
+   make uninstall;make clean
+   cd -
+}
+
+cleanffmpeg
+rm -rf obj
+rm -rf libs

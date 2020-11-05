@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#FF232428</color>
+    <color name="app_title">#FFED232B</color>
+    <color name="black">#ff000000</color>
+    <color name="button_enable_false">#FF3A3A3A</color>
+    <color name="button_text_color">#FFFFFFFF</color>
+    <color name="dialog_background">#FFF3F3F3</color>
+    <color name="dialog_item_divider">#FFC9C9C9</color>
+    <color name="dialog_item_pressed">#C3BDBD</color>
+    <color name="dialog_item_text">#FF333333</color>
+    <color name="dialog_title">#FFE15151</color>
+    <color name="dialog_title_divider">#FFE15151</color>
+    <color name="dmr_list_bg">#151618</color>
+    <color name="dmr_list_item_text_focus">#FFFFFF</color>
+    <color name="dmr_list_item_text_normal">#333333</color>
+    <color name="dmr_list_item_text_selected">#E15151</color>
+    <color name="download_delete_title">#ff4dbde7</color>
+    <color name="gray_text">#FF666666</color>
+    <color name="list_wifi_bg">#FFEEEEEE</color>
+    <color name="list_wifi_bg_fo">#FFDEDCDD</color>
+    <color name="notification_background">#FFEEEEEE</color>
+    <color name="text_high_light">#FFE15151</color>
+    <color name="white">#ffffffff</color>
+    <string name="app_name">HiCamPlayerSample</string>
+    <string name="input_file">Input_file</string>
+    <string name="input_indicate">pls input url</string>
+    <string name="input_url">http://</string>
+    <string name="play">play</string>
+    <string name="waiting">Loading</string>
+    <style name="ott_process_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFrame">@null</item> <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item> <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item> <!-- 半透明 -->
+        <item name="android:background">@android:color/transparent</item> <!-- 背景透明 -->
+        <item name="android:windowBackground">@android:color/transparent</item> <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item> <!-- 蒙版- 模糊 -->
+    </style>
+</resources>

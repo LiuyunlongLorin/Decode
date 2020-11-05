@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="Y:\BVT\RDK\workspace\hiberry_v1R2\hiberry_v1r2_20161115\source\component\hicamplayer\android\HiCamPlayerSample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f10fa72fba58a0fbabb74a296905f25cdb9613f9">
+        <dex dex="Y:\BVT\RDK\workspace\hiberry_v1R2\hiberry_v1r2_20161115\source\component\hicamplayer\android\HiCamPlayerSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_537a3e71a385edd61adbb897fbb28f1a48e19b51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="Y:\BVT\RDK\workspace\hiberry_v1R2\hiberry_v1r2_20161115\source\component\hicamplayer\android\HiCamPlayerSample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8793f37bd85210db4ec4bff5e200ad76860e89d">
+        <dex dex="Y:\BVT\RDK\workspace\hiberry_v1R2\hiberry_v1r2_20161115\source\component\hicamplayer\android\HiCamPlayerSample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_42add77ae40132b905d609fe5fc6df02df35834e\classes.dex" />
+    </item>
+
+</items>

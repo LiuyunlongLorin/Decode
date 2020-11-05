@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_prev.xml",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable\\selector_button_prev.xml"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_stop.xml",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable\\selector_button_stop.xml"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_play.xml",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable\\selector_button_play.xml"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_record.xml",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable\\selector_button_record.xml"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_snap.xml",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable\\selector_button_snap.xml"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_next.xml",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable\\selector_button_next.xml"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hi_progress.xml",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable\\hi_progress.xml"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_pause.xml",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable\\selector_button_pause.xml"
+    }
+]

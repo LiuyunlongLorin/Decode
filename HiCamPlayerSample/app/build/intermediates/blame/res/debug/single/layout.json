@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hicamplayer_layout.xml",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\layout\\hicamplayer_layout.xml"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hicam_enter_layout.xml",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\layout\\hicam_enter_layout.xml"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading_dialog.xml",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\layout\\loading_dialog.xml"
+    }
+]

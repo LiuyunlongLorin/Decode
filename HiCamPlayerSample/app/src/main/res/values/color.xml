@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--应用程序各界面背景色-->
+    <color name="app_background">#FF232428</color>
+    
+    <!--应用程序标题色，红色-->
+    <color name="app_title">#FFED232B</color>
+    
+    <!--text 高亮颜色-->
+    <color name="text_high_light">#FFE15151</color>
+    
+     <!--text 通知栏底色-->
+    <color name="notification_background">#FFEEEEEE</color>
+
+    <!--下载或删除标题颜色-->
+    <color name="download_delete_title">#ff4dbde7</color>
+
+    <!--对话框背景色-->
+    <color name="dialog_background">#FFF3F3F3</color>
+
+    <!--对话框标题色-->
+    <color name="dialog_title">#FFE15151</color>
+
+    <!--对话框标题分隔线颜色-->
+    <color name="dialog_title_divider">#FFE15151</color>
+
+    <!--对话框条目分隔线颜色-->
+    <color name="dialog_item_divider">#FFC9C9C9</color>
+
+    <!--对话框条目内部文字颜色-->
+    <color name="dialog_item_text">#FF333333</color>
+    
+    <color name="gray_text">#FF666666</color>
+
+    <!--对话框条目按下时的背景色-->
+    <color name="dialog_item_pressed">#C3BDBD</color>
+
+
+    <color name="button_text_color">#FFFFFFFF</color>
+    
+    <color name="button_enable_false">#FF3A3A3A</color>
+    
+    <color name="list_wifi_bg">#FFEEEEEE</color>
+    
+    <color name="list_wifi_bg_fo">#FFDEDCDD</color>
+
+    <!-- 白色 -->
+    <color name="white">#ffffffff</color>
+    <!--黑色-->
+    <color name="black">#ff000000</color>
+    
+    <color name="dmr_list_item_text_selected">#E15151</color>
+    <color name="dmr_list_item_text_normal">#333333</color>
+    <color name="dmr_list_item_text_focus">#FFFFFF</color>
+    <color name="dmr_list_bg">#151618</color>
+
+</resources>

@@ -1,0 +1,45 @@
+#!/bin/sh
+
+function buildffmpeg()
+{
+#    cd ./jni/src/libffmpeg
+#    ./build_android.sh $1
+#    cd -
+echo "build ffmpeg finish"
+}
+
+function checkIfExist()
+{
+    if [ ! -f "$1" ]; then
+        echo "$1 not exist"
+        exit 0
+    fi
+}
+
+if [ $# != 1 ]; then
+    echo "input para cnt err: $#, pls input absolutely ndk compile dir path"
+    exit 0
+fi
+
+checkIfExist $1/ndk-build
+
+buildffmpeg $1
+
+rm ./obj -rf
+cp ./jni/Application.release ./jni/Application.mk
+
+
+cp ./jni/src/jni/Android_ffmpeg.mk.release ./jni/src/jni/Android.mk
+cp ./jni/src/libmediaplayer/Android_ffmpeg.mk.release ./jni/src/libmediaplayer/Android.mk
+$1/ndk-build
+checkIfExist libs/armeabi-v7a/libhi_camplayer_ffmpeg.so
+cp libs/armeabi-v7a/libhi_camplayer_ffmpeg.so .
+
+
+cp ./jni/Application_for_5_0.release ./jni/Application.mk
+rm ./obj -rf
+cp ./jni/src/jni/Android5.0_mediaCodec.mk.release ./jni/src/jni/Android.mk
+cp ./jni/src/libmediaplayer/Android5.0_mediaCodec.mk.release ./jni/src/libmediaplayer/Android.mk
+$1/ndk-build
+
+mv libhi_camplayer_ffmpeg.so libs/armeabi-v7a/

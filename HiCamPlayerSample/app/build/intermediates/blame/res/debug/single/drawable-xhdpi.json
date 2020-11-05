@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\icon_loading.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\icon_loading.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_prev_normal.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_prev_normal.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_prev_focus.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_prev_focus.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_normal.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_pause_normal.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_snap_focus.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_snap_focus.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_record_normal.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_record_normal.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_normal.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_play_normal.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_record_focus.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_record_focus.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_focus.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_play_focus.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_snap_normal.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_snap_normal.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_stop_focus.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_stop_focus.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_stop_normal.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_stop_normal.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_next_focus.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_next_focus.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_next_normal.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_next_normal.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_focus.png",
+        "source": "D:\\Liuyunlong_Work\\HiCamPlayer_Android_V2.0.1.0\\HiCamPlayerSample\\app\\src\\main\\res\\drawable-xhdpi\\ic_pause_focus.png"
+    }
+]
